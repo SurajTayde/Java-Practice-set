@@ -63,20 +63,22 @@ Follow the prompts to guess the computer-generated number.
 - Save high scores using file handling or database integration.<br>
 - Enable multiplayer mode for competition.
 ---
-# 📸 Screenshots
+## 📸 Screenshots
 
-![Game Screenshot](Number Guessing Game/Game Output.png)
+![GameImage](https://github.com/SurajTayde/Java-Practice-set/blob/main/Number%20Guessing%20Game/Game%20Output.png)
+
 
 ---
- 📝 License
+
+### 📝 License
  
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
- 🤝 Contributing
+### 🤝 Contributing
  
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
 
- 📧 Contact
+### 📧 Contact
  
 For any questions or suggestions, please reach out to:
 - Email: surajtayde1211@gmail.com
